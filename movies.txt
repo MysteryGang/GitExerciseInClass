@@ -6,3 +6,7 @@ Jaws
 Wall-e
 Popeye
 Cars
+Nemo
+Wall-e
+Lion King
+Shawshank
